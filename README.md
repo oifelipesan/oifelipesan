@@ -16,7 +16,7 @@
 <br><br>
 
 <div align="center">
-   <img width="850" src="https://activity-graph.herokuapp.com/graph?username=oifelipesan&theme=github&hide_border=true&area=true">
+   <img width="830" src="https://activity-graph.herokuapp.com/graph?username=oifelipesan&theme=github&hide_border=true&area=true">
 </div><br><br>
 
 <div align="center">
