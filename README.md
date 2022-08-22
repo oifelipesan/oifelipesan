@@ -23,6 +23,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=oifelipesan&theme=dracula&no-bg=true&margin-w=15&margin-h=15">
 </div>
 
+<br>
+
 <div>
 
   ### Sistem:
@@ -92,9 +94,6 @@
     <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"
       alt="Inkscape">
   </a>
-</div><br><br>
-
-<div align="center">
 </div>
 
 <div align="center">
