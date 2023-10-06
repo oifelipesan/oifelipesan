@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF6E96&center=true&width=800&height=60&lines=Oi!+Eu+sou+o+Felipe+dos+Santos;Tenho+27+anos+e+moro+em+Curitiba%2FPR%2C+Brasil;Estudo+desenvolvimento+web+com+JavaScript" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF6E96&center=true&width=800&height=60&lines=Oi!+Eu+sou+o+Felipe+dos+Santos;Tenho+28+anos+e+moro+em+Curitiba%2FPR%2C+Brasil;Estudo+desenvolvimento+web+com+JavaScript" alt="Typing SVG" /></a>
 </div><br>
 
 <div align="center">
@@ -15,9 +15,6 @@
 
 <br><br>
 
-<div align="center">
-   <img width="840" src="https://activity-graph.herokuapp.com/graph?username=oifelipesan&theme=github&hide_border=true&area=true">
-</div><br><br>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=oifelipesan&theme=dracula&no-bg=true&margin-w=15&margin-h=15">
